@@ -95,5 +95,4 @@ Oltre a quanto sopra, il Ministero della Salute avrà facoltà esclusiva di elim
 * [README SDK Android](https://github.com/ministero-salute/it-dgc-verificac19-sdk-android/blob/develop/README.md)
 * [Documentazione SDK Android](https://ministero-salute.github.io/it-dgc-verificac19-sdk-android/documentation/)
 * [DPCM 12 Ottobre 2021](https://www.governo.it/sites/governo.it/files/DPCM_12_ottobre.pdf)
-* [Allegato H DPCM 12 Ottobre 2021](https://www.governo.it/sites/governo.it/files/Dpcm_12_ottobre_ALLEGATO_H.pdf) 
-
+* [Allegato H DPCM 12 Ottobre 2021](https://www.governo.it/sites/governo.it/files/Dpcm_12_ottobre_ALLEGATO_H.pdf)
